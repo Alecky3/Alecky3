@@ -1,1 +1,2 @@
-Full-Stack Software Engineer, currently working at Britam Holdings, Kenya as an Applications Value Delivery Associate. Big fan of NodeJs frameworks, Javascript, Typescript, Python, c, C++, React, Next.js, Django, Flask, .... Currently Learning GraphQL with Apollo GraphOS. Am more of a backend Engineer that a Frontend engineer. 
+Full-Stack Software Engineer, currently working at Britam Holdings, Kenya as an Applications Value Delivery Associate. Big fan of NodeJs frameworks, Javascript, Typescript, Python, c, C++, React, Next.js, Django, Flask, GraphQL, Docker, Kubernetes, .....
+Currently working with kubernetes,docker and related technologies.
