@@ -1,3 +1,3 @@
-Full-Stack Software Engineer, currently working at Britam Holdings, Kenya as a Systems Analyst. Big fan of NodeJs frameworks, .NET, Python, Docker, Kubernetes,GraphQl and many more.
+Full-Stack Software Engineer and an Analyst, currently working at Britam Holdings, Kenya as a Systems Analyst. Big fan of NodeJs frameworks, .NET, Python, Docker, Kubernetes,GraphQl and Big Data Technologies.
 
-Coding is passion
+I believe in #DO HADR THINGS
