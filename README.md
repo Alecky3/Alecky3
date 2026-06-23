@@ -1,5 +1,5 @@
 ## IT Support Specialist / Fullstack Developer (Backend, Frontend, DevSecOps, Cloud Native) / Data Engineer.
-IT support specialist and a complete fullstack developer with over 3 years experience managing, suporting  and actively conrtibutiong as a developer for financial and insurage business systems.
+IT support specialist and a complete fullstack developer with over 3 years experience managing, suporting  and actively conrtibutiong as a developer for financial and insurance business systems.
 
 ## Key competencies
 ### Software Development
